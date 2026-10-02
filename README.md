@@ -1,2 +1,2 @@
 # demitri-s-log
-on progrres
+on progress
